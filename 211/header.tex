@@ -1,0 +1,68 @@
+% !TeX root = main.tex
+\documentclass[a4paper,12pt]{scrreport}
+
+\usepackage[ngerman]{babel}
+
+\usepackage[top = 2cm, bottom = 2.5cm, left = 1.5cm, right = 1.5cm]{geometry}
+
+\usepackage{fontspec}
+\usepackage{libertine}
+
+
+\usepackage{fancyhdr}
+\pagestyle{fancy}
+\fancyhead{}
+\fancyhead[LO]{\printauthor}
+\fancyhead[RO]{Experiment \arabic{chapter}}
+
+\usepackage{csquotes}
+
+\usepackage{enumitem}
+
+\usepackage{microtype}
+\microtypesetup{protrusion=true}
+\microtypesetup{expansion=true}
+
+\usepackage{amsmath}
+
+
+\usepackage{amssymb}
+%\numberwithin{equation}{chapter}
+
+\usepackage{siunitx}
+\sisetup{locale=DE}
+
+\usepackage{graphicx}
+
+\usepackage{hyperref}
+\hypersetup{colorlinks = true, linkcolor = blue}
+
+\usepackage{dsfont}
+
+\usepackage{xcolor}
+
+\usepackage{pdfpages}
+
+\usepackage{float}
+
+\usepackage{booktabs}
+
+\author{\printauthor}
+\date{}
+
+\newcommand{\printauthor}{Leonard Scheuer}
+
+\newcommand{\setup}[2]{
+	\title{\Huge{ #1: #2} \\ ~ \\ \large{PAP 2}}
+	\maketitle
+	\tableofcontents
+	\setcounter{chapter}{#1}
+	%\include{#1.tex}
+}
+
+%Abbreviations
+\newcommand{\dif}{\text{d}}
+\newcommand{\lr}[1]{\left(#1\right)}
+\renewcommand{\t}[1]{\text{#1}}
+
+\setcounter{equation}{0}

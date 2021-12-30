@@ -1,0 +1,20 @@
+\babel@toc {ngerman}{}\relax 
+\contentsline {section}{\numberline {221.1}Motivation/Versuchsziel}{2}{section.221.1}%
+\contentsline {section}{\numberline {221.2}Theoretische Grundlagen}{2}{section.221.2}%
+\contentsline {subsection}{\numberline {221.2.1}Einzelnes Pendel}{2}{subsection.221.2.1}%
+\contentsline {subsection}{\numberline {221.2.2}Zwei gekoppelte Pendel}{3}{subsection.221.2.2}%
+\contentsline {subsection}{\numberline {221.2.3}symmetrische Schwingung}{4}{subsection.221.2.3}%
+\contentsline {subsection}{\numberline {221.2.4}asymmetrische Schwingung}{4}{subsection.221.2.4}%
+\contentsline {subsection}{\numberline {221.2.5}Schwebungsschwingung}{4}{subsection.221.2.5}%
+\contentsline {subsection}{\numberline {221.2.6}Kopplungsgrad}{4}{subsection.221.2.6}%
+\contentsline {section}{\numberline {221.3}Durchführung}{5}{section.221.3}%
+\contentsline {subsection}{\numberline {221.3.1}Material}{5}{subsection.221.3.1}%
+\contentsline {subsection}{\numberline {221.3.2}Messungen}{5}{subsection.221.3.2}%
+\contentsline {section}{\numberline {221.4}Messdaten}{5}{section.221.4}%
+\contentsline {subsubsection}{\nonumberline Ungekoppelte Schwingung}{7}{subsubsection*.3}%
+\contentsline {subsubsection}{\nonumberline Symmetrische Schwingung}{8}{subsubsection*.5}%
+\contentsline {subsubsection}{\nonumberline Asymmetrische Schwingung}{11}{subsubsection*.7}%
+\contentsline {subsubsection}{\nonumberline Schwebungschwingung}{14}{subsubsection*.9}%
+\contentsline {section}{\numberline {221.5}Auswertung}{17}{section.221.5}%
+\contentsline {subsection}{\numberline {221.5.1}Vergleich der errechneten und gemessenen Frequenzen}{17}{subsection.221.5.1}%
+\providecommand \tocbasic@end@toc@file {}\tocbasic@end@toc@file 
