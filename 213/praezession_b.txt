@@ -1,0 +1,21 @@
+Anfangsfrequenz  Präzessionsdauer
+> 1 Gewicht bei 15cm
+660 120
+525 100
+260 49
+400 76
+> 1 Gewicht bei 20cm
+655 93
+560 79
+450 65
+345 50
+> 2 Gewichte bei 15cm
+648 62
+480 47
+414 40
+329 32
+> 2 Gewichte bei 20cm
+630 46
+364 26
+430 32
+280 21

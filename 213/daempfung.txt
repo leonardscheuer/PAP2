@@ -1,0 +1,8 @@
+Verstrichene Zeit  Frequenz  Fehler Frequenz
+0 683 2
+122 623 2
+240 585 2
+360 543 2
+484 502 2
+601 468 2
+720 435 2

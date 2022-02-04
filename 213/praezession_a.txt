@@ -1,0 +1,4 @@
+Frequenz Winkel Präzessionsdauer
+533 90 77
+535 45 88
+560 23 82

@@ -1,0 +1,6 @@
+Ordnung,Lage linker Cursor [Pixel],Fehler [Pixel],Lage rechter Cursor [Pixel],Fehler [Pixel],Halbe Breite Analysierspalt [mm],Fehler [µm]
+5,636,8,1578,8,1.07,0.005
+4,724,4,1495,5,0.84,0.005
+3,814,4,1410,6,0.75,0.005
+2,900,4,1323,4,0.45,0.005
+1,988,3,1235,3,0.21,0.005
